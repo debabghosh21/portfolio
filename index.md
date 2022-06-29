@@ -14,9 +14,17 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 Face Recognition
 
+An automatic process of recognizing the face of a person
+
+<center><img src="images/fraud_detection.jpg"/></center>
+
 ## Project 2
 
-Auto Driving
+Automatic Self Driving
+
+Automatic way of driving where if the driver put it on auto driving mode then , the car will use the gps navigation, auto detection of objects such as cars persons 
+
+<center><img src="images/fraud_detection.jpg"/></center>
 
 ### Header 3
 
